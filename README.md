@@ -43,7 +43,7 @@
 class SharveshB:
     name             = "Sharvesh B"
     current_role     = "Software Engineering Graduate & AI/CV Specialist"
-    academics        = "M.Tech in Computer Science and Engineering @ Sri Krishna College of Engg & Tech"
+    academics        = "M.Tech in Computer Science and Engineering @ Sri Krishna College of Engg & Tech (GPA: 7.02)"
     location         = "Tamil Nadu, India 🇮🇳"
     languages        = ["Python", "Java", "C++", "JavaScript", "SQL"]
     core_focus       = ["Computer Vision", "Deep Learning", "Image Processing", "Robotics Software", "Full-Stack AI"]
